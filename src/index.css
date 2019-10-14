@@ -1,0 +1,22 @@
+.btnAlign {
+    padding: 0;
+    margin:0;
+    border:none;
+    vertical-align: top;
+}
+
+.blog {
+    white-space: pre-wrap;
+    line-height: 2em;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.linkBtn {
+    padding: 0;
+    margin:0;
+    border:none;
+    padding-bottom: 3px;;
+}
